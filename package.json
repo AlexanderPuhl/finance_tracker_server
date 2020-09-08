@@ -1,0 +1,11 @@
+{
+  "name": "finance_tracker_server",
+  "version": "1.0.0",
+  "description": "Server for the finance tracker app",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Alexander Puhl",
+  "license": "ISC"
+}
